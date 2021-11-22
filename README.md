@@ -1,2 +1,2 @@
-# pseudoclans.github.oi
+# pseudoclans.github.io
 the website for  Web design
